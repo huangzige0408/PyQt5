@@ -1,5 +1,6 @@
-# 《PyQt5快速开发与实战》
+﻿# 《PyQt5快速开发与实战》
 
+add new module
 ![](http://images.cnblogs.com/cnblogs_com/wangshuo1/1199420/o_abc.jpg)
 
 为什么要编写本书？
