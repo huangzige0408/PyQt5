@@ -1,4 +1,5 @@
 ﻿# 《PyQt5快速开发与实战》
+master modify
 new branch modify
 add new module2.0
 ![](http://images.cnblogs.com/cnblogs_com/wangshuo1/1199420/o_abc.jpg)
