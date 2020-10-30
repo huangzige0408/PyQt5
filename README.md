@@ -1,4 +1,5 @@
 ﻿# 《PyQt5快速开发与实战》
+merge+
 master modify
 new branch modify
 add new module2.0
